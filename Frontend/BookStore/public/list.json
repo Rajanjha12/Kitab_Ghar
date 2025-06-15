@@ -1,0 +1,119 @@
+[{
+  "_id": {
+    "$oid": "68060deec09f8734e05cbdec"
+  },
+  "id": 1,
+  "title": "The Great Gatsby",
+  "author": "F. Scott Fitzgerald",
+  "price": "0$",
+  "category": "Free",
+  "description": "A novel set in the Roaring Twenties, exploring themes of wealth, love, and the American Dream."
+},
+{
+  "_id": {
+    "$oid": "68060deec09f8734e05cbded"
+  },
+  "id": 2,
+  "title": "To Kill a Mockingbird",
+  "author": "Harper Lee",
+  "price": "0$",
+  "category": "Free",
+  "image": "/images/mockingbird.jpg",
+  "description": "A novel about the serious issues"
+},
+{
+  "_id": {
+    "$oid": "68060deec09f8734e05cbdee"
+  },
+  "id": 3,
+  "title": "1984",
+  "author": "George Orwell",
+  "price": 15.99,
+  "category": "Entertainment",
+  "image": "/images/1984.jpg",
+  "description": "A dystopian novel that delves into the dangers of totalitarianism and extreme political ideology."
+},
+{
+  "_id": {
+    "$oid": "68060deec09f8734e05cbdef"
+  },
+  "id": 4,
+  "title": "Pride and Prejudice",
+  "author": "Jane Austen",
+  "price": 10.99,
+  "category": "comedy",
+  "image": "/images/pride.jpg",
+  "description": "A romantic novel that critiques the British landed gentry at the end of the 18th century."
+},
+{
+  "_id": {
+    "$oid": "68060deec09f8734e05cbdf0"
+  },
+  "id": 5,
+  "title": "The Catcher in the Rye",
+  "author": "J.D. Salinger",
+  "price": "0$",
+  "category": "Free",
+  "image": "/images/catcher.jpg",
+  "description": "A novel about teenage angst and alienation, narrated by the iconic Holden Caulfield."
+},
+{
+  "_id": {
+    "$oid": "68060deec09f8734e05cbdf1"
+  },
+  "id": 6,
+  "title": "The Hobbit",
+  "author": "J.R.R. Tolkien",
+  "price": "0",
+  "category": "Free",
+  "image": "/images/hobbit.jpg",
+  "description": "A fantasy novel that follows the journey of Bilbo Baggins as he embarks on an adventure with a group of dwarves."
+},
+{
+  "_id": {
+    "$oid": "68060deec09f8734e05cbdf2"
+  },
+  "id": 7,
+  "title": "Fahrenheit 451",
+  "author": "Ray Bradbury",
+  "price": "$12.89",
+  "category": "song",
+  "image": "/images/fahrenheit.jpg",
+  "description": "A dystopian novel that explores a future where books are banned and 'firemen' burn any that are found."
+},
+{
+  "_id": {
+    "$oid": "68060deec09f8734e05cbdf3"
+  },
+  "id": 8,
+  "title": "Brave New World",
+  "author": "Aldous Huxley",
+  "price": 14.99,
+  "category": "Entertainment",
+  "image": "/images/brave.jpg",
+  "description": "A dystopian novel that presents a future society driven by technological advancements and consumerism."
+},
+{
+  "_id": {
+    "$oid": "68060deec09f8734e05cbdf4"
+  },
+  "id": 9,
+  "title": "The Alchemist",
+  "author": "Paulo Coelho",
+  "price": 10.99,
+  "category": "comedy",
+  "image": "/images/alchemist.jpg",
+  "description": "A philosophical novel that follows a shepherd named Santiago on his journey to discover his personal legend."
+},
+{
+  "_id": {
+    "$oid": "68060deec09f8734e05cbdf5"
+  },
+  "id": 10,
+  "title": " Mathematics ",
+  "author": "Oscar Wilde",
+  "price": "0$",
+  "category": "Free",
+  "image": "/images/dorian.jpg",
+  "description": "A novel about a young"
+}]
