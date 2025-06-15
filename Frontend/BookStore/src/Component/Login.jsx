@@ -19,7 +19,7 @@ const Login = () => {
       email:data.email,
       password:data.password
      };
-      await axios.post("https://kitab-ghar-backend.onrender.com",userInfo)
+      await axios.post("https://kitab-ghar-backend.onrender.com/user/login",userInfo)
       //promise is used to handle the response from the server
       .then((res)=>
      {
