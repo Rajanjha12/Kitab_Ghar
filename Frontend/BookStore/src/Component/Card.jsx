@@ -15,7 +15,7 @@ const [book,setBook]=useState([])
   useEffect(()=>{
     const getBook=async()=>{
       try{
-        const res=await axios.get("https://kitab-ghar-backend.onrender.com");
+        const res=await axios.get("https://kitab-ghar-backend.onrender.com/book");
         console.log(res.data);
         const data=res.data.filter((data)=> data.category === "Free");
         setBook(data);
